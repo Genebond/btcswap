@@ -1,12 +1,7 @@
 # BTCSWAP
 
-[![Lint](https://github.com/btcswap/btcswap-v3-core/actions/workflows/lint.yml/badge.svg)](https://github.com/btcswap/btcswap-v3-core/actions/workflows/lint.yml)
-[![Tests](https://github.com/btcswap/btcswap-v3-core/actions/workflows/tests.yml/badge.svg)](https://github.com/btcswap/btcswap-v3-core/actions/workflows/tests.yml)
-[![Fuzz Testing](https://github.com/btcswap/btcswap-v3-core/actions/workflows/fuzz-testing.yml/badge.svg)](https://github.com/btcswap/btcswap-v3-core/actions/workflows/fuzz-testing.yml)
-[![Mythx](https://github.com/btcswap/btcswap-v3-core/actions/workflows/mythx.yml/badge.svg)](https://github.com/btcswap/btcswap-v3-core/actions/workflows/mythx.yml)
-[![npm version](https://img.shields.io/npm/v/@btcswap/v3-core/latest.svg)](https://www.npmjs.com/package/@btcswap/v3-core/v/latest)
 
-This repository contains the core smart contracts for the btcswap V3 Protocol.
+This repository contains the core smart contracts for the btcswap Protocol.
 For higher level contracts, see the [btcswap-v3-periphery](https://github.com/btcswap/btcswap-v3-periphery)
 repository.
 
