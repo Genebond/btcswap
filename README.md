@@ -5,10 +5,6 @@ This repository contains the core smart contracts for the btcswap Protocol.
 For higher level contracts, see the [btcswap-v3-periphery](https://github.com/btcswap/btcswap-v3-periphery)
 repository.
 
-## Bug bounty
-
-This repository is subject to the btcswap V3 bug bounty program, per the terms defined [here](./bug-bounty.md).
-
 ## Local deployment
 
 In order to deploy this code to a local testnet, you should install the npm package
